@@ -1,4 +1,4 @@
-# [![license][license-badge]][LICENSE]
+Clone do Spotify feito com O Framework Javascript Vue 2
 
 ![](public/Dashboard.PNG)
 ## :rocket: Getting started
